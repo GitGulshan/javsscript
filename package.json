@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node basics/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^22.18.0"
+  }
+}
