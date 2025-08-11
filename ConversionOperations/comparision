@@ -13,3 +13,8 @@ console.log(undefined < 0 )
 
 
 // strict comparision === it  strictly checks dataType and values;
+
+
+
+
+
